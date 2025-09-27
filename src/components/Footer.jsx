@@ -14,7 +14,7 @@ const Footer = () => {
           by each software license.
         </p>
         <p>
-          Design by <span className="text-indigo-400">Made By Argon</span>. Some icons are licensed
+          Design by <span className="text-indigo-400">Made By Rishabh</span>. Some icons are licensed
           under <span className="underline">CC BY-SA 3.0+</span>.
         </p>
         <p>
